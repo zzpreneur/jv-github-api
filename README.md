@@ -61,17 +61,6 @@ Top 3 Event Types:
   - PullRequestEvent: 1 events
 ```
 
-## Development
-
-- Lint code:
-  ```
-  npm run lint
-  ```
-- Fix linting issues:
-  ```
-  npm run lint:fix
-  ```
-
 ## API Endpoints
 
 The application uses GitHub's public API endpoints:
